@@ -7,7 +7,7 @@ Hi! My name is Safarudin. Having a robust background as a web programmer special
 <img src="https://github-readme-stats.vercel.app/api?username=safarilkom7&show_icons=true">
 
 <!--
-**ardafirdausr/ardafirdausr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**safarilkom7/safarilkom7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=safarilkom7)](https://github.com/safarilkom7/github-readme-stats)
+[![Safar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=safarilkom7)](https://github.com/safarilkom7/github-readme-stats)
