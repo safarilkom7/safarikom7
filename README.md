@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Safar's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=safarilkom7)](https://github.com/safarilkom7/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=safarilkom7)](https://github.com/anuraghazra/github-readme-stats)
