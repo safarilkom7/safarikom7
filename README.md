@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-Hi! My name is Safarudin. Having a robust background as a web programmer specializing in both backend and frontend development, I excel in crafting responsive and functional web solutions to cater to user needs.
+Hi! My name is Safarudin. Having a robust background as a web programmer specializing in both backend and frontend development, I am highly skilled at creating responsive and functional web solutions tailored to user needs.
 
 ## Stats:
 
